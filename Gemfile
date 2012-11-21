@@ -41,4 +41,13 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'cucumber-rails'
+  gem 'rspec'
+  gem 'spork'
+  gem 'guard'
+  gem 'guard-spork'
+  gem 'guard-rspec'
+  gem 'rb-fsevent'
+  gem 'growl'
+  gem 'factory_girl'
+  gem 'annotate'
 end
